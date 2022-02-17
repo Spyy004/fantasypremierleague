@@ -1,8 +1,7 @@
 library premier_league_fantasy;
 import 'dart:convert';
-
 import 'package:http/http.dart' as http;
-import 'package:premier_league_fantasy/premierleaguemodel.dart';
+import 'package:premier_league_fantasy/src/premierleaguemodel.dart';
 
 
 

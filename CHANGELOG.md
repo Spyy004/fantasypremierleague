@@ -1,3 +1,3 @@
-## 0.0.2
+## 0.0.3
 
-Added documentation on how to use the package.
+Added documentation on how to use the package & License

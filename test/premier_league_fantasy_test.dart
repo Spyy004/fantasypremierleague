@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:premier_league_fantasy/premier_league_fantasy.dart';
-import 'package:premier_league_fantasy/premierleaguemodel.dart';
+import 'package:premier_league_fantasy/src/premier_league_fantasy.dart';
+import 'package:premier_league_fantasy/src/premierleaguemodel.dart';
 
 void main() {
   test('adds one to input values', () async{
