@@ -1,6 +1,6 @@
 name: premier_league_fantasy
 description: A package that fetches and organizes the FPL data.
-version: 0.0.3
+version: 0.0.31
 homepage: https://github.com/Spyy004/fantasypremierleague
 
 environment:
