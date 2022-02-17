@@ -1,6 +1,6 @@
 name: premier_league_fantasy
-description: A package that fetches and organizes the FPL data.
-version: 0.0.31
+description: A package that fetches and organizes the FPL data. Fetches all data provided by the FPL API. You can use it for developing sports related game apps.
+version: 0.0.32
 homepage: https://github.com/Spyy004/fantasypremierleague
 
 environment:
